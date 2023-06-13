@@ -42,8 +42,22 @@ body{
 width: 35%;
 
 }
+
+.estudante-imagem{
+    width: 120px ;
+
+}
+
+.estudante-icone{
+    width: 24px; ;
+}
+
+.estudante-div{
+    text-align: center;
+}
 .escola-titulo{
     padding: 24px 0;
+    font-family: Tilt Prism;
 }
 
 .estudante-imagem{
